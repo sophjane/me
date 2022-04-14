@@ -1,7 +1,8 @@
-### Hi! 
-I'm Sophie, welcome to my Github!
+### Hi, I'm Sophie!
 
-Here's a few things I've worked with:
+Welcome to my Github 😃
+
+Here's a few things that I've worked with:
 
 Databases:
 
