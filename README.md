@@ -1,10 +1,10 @@
-### Hi, I'm Sophie!
+### Hi, I'm Sophie! 😃
 
-Welcome to my Github 😃
+I'm currently on my last year of my software engineering degree at University of Aveiro, Portugal.
 
-Here's a few things that I've worked with:
+Here's a few things that I've worked with...
 
-Databases:
+### Databases
 
 
 ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
@@ -14,12 +14,13 @@ Databases:
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 
-Designs:
+### Designs
 
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-Frameworks, Platforms and Libraries:
+
+### Frameworks, Platforms and Libraries
 
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -30,7 +31,8 @@ Frameworks, Platforms and Libraries:
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-Languages:
+
+### Languages
 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
