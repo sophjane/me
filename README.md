@@ -1,4 +1,4 @@
-Hi! 
+### Hi! 
 I'm Sophie, welcome to my Github!
 
 Here's a few things I've worked with:
