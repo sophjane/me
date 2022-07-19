@@ -1,6 +1,6 @@
 ### Hi, I'm Sophie! 😃
 
-I'm currently on my last year of my Software Engineering degree at University of Aveiro, Portugal.
+I just finished my Software Engineering degree at University of Aveiro, Portugal.
 
 Here's a few things that I've worked with...
 
